@@ -1,0 +1,113 @@
+/* Body Background */
+body {
+    background-color: #ecf0f1; /* Açýk Gri */
+}
+
+/* Navbar */
+.navbar {
+    background-color: #3498db; /* Mavi */
+}
+
+.nav-link {
+    color: white !important;
+    margin: 0 10px;
+    padding: 5px 15px;
+    background-color: #3498db;
+    border-radius: 5px;
+}
+
+    .nav-link:hover {
+        background-color: #2980b9; /* Ýmleç gelince renk */
+        color: white !important;
+    }
+
+/* Buttons */
+.btn {
+    border-radius: 5px; /* Köþeli butonlar */
+    font-size: 16px; /* Buton yazý boyutu */
+    padding: 10px 20px; /* Buton iç boþluk */
+}
+
+.btn-primary {
+    background-color: #3498db;
+    color: white;
+    border-color: #3498db;
+}
+
+    .btn-primary:hover {
+        background-color: #2980b9;
+        color: white;
+        border-color: #2980b9;
+    }
+
+.btn-secondary {
+    background-color: #2ecc71;
+    color: white;
+    border-color: #2ecc71;
+}
+
+    .btn-secondary:hover {
+        background-color: #27ae60;
+        color: white;
+        border-color: #27ae60;
+    }
+
+.btn-danger {
+    background-color: #e74c3c;
+    color: white;
+    border-color: #e74c3c;
+}
+
+    .btn-danger:hover {
+        background-color: #c0392b;
+        color: white;
+        border-color: #c0392b;
+    }
+
+/* Welcome Page */
+.jumbotron {
+    text-align: center;
+    background-color: #3498db;
+    border-radius: 20px;
+    padding: 2rem;
+    margin-top: 20px;
+    color: white;
+}
+
+/* Table Styles */
+.table-custom {
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+}
+
+    .table-custom th, .table-custom td {
+        border: 1px solid #dee2e6;
+    }
+
+    .table-custom th {
+        background-color: #3498db;
+        color: white;
+    }
+
+/* Form Styles */
+.form-horizontal {
+    background-color: #ffffff; /* Beyaz */
+    border: 1px solid #dee2e6;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+/* Course Item */
+.course-item {
+    border: 1px solid #dee2e6;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    background-color: #f8f9fa;
+}
+
+/* Button Alignment */
+.text-right {
+    text-align: right;
+}

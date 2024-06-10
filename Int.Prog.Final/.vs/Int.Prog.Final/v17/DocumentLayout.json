@@ -1,0 +1,392 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|c:\\users\\ugurs\\source\\repos\\studentmanagementsystem\\int.prog.final\\int.prog.final\\controllers\\couursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|solutionrelative:int.prog.final\\controllers\\couursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|c:\\users\\ugurs\\source\\repos\\studentmanagementsystem\\int.prog.final\\int.prog.final\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|solutionrelative:int.prog.final\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|c:\\users\\ugurs\\source\\repos\\studentmanagementsystem\\int.prog.final\\int.prog.final\\views\\student\\assigncourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|solutionrelative:int.prog.final\\views\\student\\assigncourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|c:\\users\\ugurs\\source\\repos\\studentmanagementsystem\\int.prog.final\\int.prog.final\\views\\course\\editcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|solutionrelative:int.prog.final\\views\\course\\editcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|c:\\users\\ugurs\\source\\repos\\studentmanagementsystem\\int.prog.final\\int.prog.final\\views\\student\\editstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|solutionrelative:int.prog.final\\views\\student\\editstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|c:\\users\\ugurs\\source\\repos\\studentmanagementsystem\\int.prog.final\\int.prog.final\\views\\course\\addcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|solutionrelative:int.prog.final\\views\\course\\addcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|c:\\users\\ugurs\\source\\repos\\studentmanagementsystem\\int.prog.final\\int.prog.final\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|solutionrelative:int.prog.final\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|c:\\users\\ugurs\\source\\repos\\studentmanagementsystem\\int.prog.final\\int.prog.final\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|solutionrelative:int.prog.final\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|c:\\users\\ugurs\\source\\repos\\studentmanagementsystem\\int.prog.final\\int.prog.final\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|solutionrelative:int.prog.final\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|c:\\users\\ugurs\\source\\repos\\studentmanagementsystem\\int.prog.final\\int.prog.final\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|solutionrelative:int.prog.final\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|c:\\users\\ugurs\\source\\repos\\studentmanagementsystem\\int.prog.final\\int.prog.final\\models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|solutionrelative:int.prog.final\\models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|c:\\users\\ugurs\\source\\repos\\studentmanagementsystem\\int.prog.final\\int.prog.final\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|solutionrelative:int.prog.final\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|c:\\users\\ugurs\\source\\repos\\studentmanagementsystem\\int.prog.final\\int.prog.final\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|solutionrelative:int.prog.final\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|c:\\users\\ugurs\\source\\repos\\studentmanagementsystem\\int.prog.final\\int.prog.final\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|solutionrelative:int.prog.final\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|c:\\users\\ugurs\\source\\repos\\studentmanagementsystem\\int.prog.final\\int.prog.final\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|solutionrelative:int.prog.final\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|c:\\users\\ugurs\\source\\repos\\studentmanagementsystem\\int.prog.final\\int.prog.final\\migrations\\20240609152614_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|solutionrelative:int.prog.final\\migrations\\20240609152614_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|c:\\users\\ugurs\\source\\repos\\studentmanagementsystem\\int.prog.final\\int.prog.final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|solutionrelative:int.prog.final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|c:\\users\\ugurs\\source\\repos\\studentmanagementsystem\\int.prog.final\\int.prog.final\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|solutionrelative:int.prog.final\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|c:\\users\\ugurs\\source\\repos\\studentmanagementsystem\\int.prog.final\\int.prog.final\\migrations\\20240609153954_addcoursecredit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|solutionrelative:int.prog.final\\migrations\\20240609153954_addcoursecredit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|c:\\users\\ugurs\\.nuget\\packages\\bootstrap\\5.3.3\\contentfiles\\any\\any\\wwwroot\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|c:\\users\\ugurs\\source\\repos\\studentmanagementsystem\\int.prog.final\\int.prog.final\\int.prog.final.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|solutionrelative:int.prog.final\\int.prog.final.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|c:\\users\\ugurs\\source\\repos\\studentmanagementsystem\\int.prog.final\\int.prog.final\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|solutionrelative:int.prog.final\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|c:\\users\\ugurs\\source\\repos\\studentmanagementsystem\\int.prog.final\\int.prog.final\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92DED35E-D69A-4C68-9EF9-E1B514624B0B}|Int.Prog.Final\\Int.Prog.Final.csproj|solutionrelative:int.prog.final\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditCourse.cshtml",
+              "DocumentMoniker": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Views\\Course\\EditCourse.cshtml",
+              "RelativeDocumentMoniker": "Int.Prog.Final\\Views\\Course\\EditCourse.cshtml",
+              "ToolTip": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Views\\Course\\EditCourse.cshtml",
+              "RelativeToolTip": "Int.Prog.Final\\Views\\Course\\EditCourse.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T16:51:10.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssignCourses.cshtml",
+              "DocumentMoniker": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Views\\Student\\AssignCourses.cshtml",
+              "RelativeDocumentMoniker": "Int.Prog.Final\\Views\\Student\\AssignCourses.cshtml",
+              "ToolTip": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Views\\Student\\AssignCourses.cshtml",
+              "RelativeToolTip": "Int.Prog.Final\\Views\\Student\\AssignCourses.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T16:50:29.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Int.Prog.Final\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Int.Prog.Final\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T16:38:03.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditStudent.cshtml",
+              "DocumentMoniker": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Views\\Student\\EditStudent.cshtml",
+              "RelativeDocumentMoniker": "Int.Prog.Final\\Views\\Student\\EditStudent.cshtml",
+              "ToolTip": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Views\\Student\\EditStudent.cshtml",
+              "RelativeToolTip": "Int.Prog.Final\\Views\\Student\\EditStudent.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAQwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T08:01:58.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddStudent.cshtml",
+              "DocumentMoniker": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Views\\Student\\AddStudent.cshtml",
+              "RelativeDocumentMoniker": "Int.Prog.Final\\Views\\Student\\AddStudent.cshtml",
+              "ToolTip": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Views\\Student\\AddStudent.cshtml",
+              "RelativeToolTip": "Int.Prog.Final\\Views\\Student\\AddStudent.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T08:01:18.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Addcourse.cshtml",
+              "DocumentMoniker": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Views\\Course\\Addcourse.cshtml",
+              "RelativeDocumentMoniker": "Int.Prog.Final\\Views\\Course\\Addcourse.cshtml",
+              "ToolTip": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Views\\Course\\Addcourse.cshtml",
+              "RelativeToolTip": "Int.Prog.Final\\Views\\Course\\Addcourse.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T01:10:20.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "Int.Prog.Final\\Views\\Course\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "Int.Prog.Final\\Views\\Course\\Index.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T17:04:58.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CouurseController.cs",
+              "DocumentMoniker": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Controllers\\CouurseController.cs",
+              "RelativeDocumentMoniker": "Int.Prog.Final\\Controllers\\CouurseController.cs",
+              "ToolTip": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Controllers\\CouurseController.cs",
+              "RelativeToolTip": "Int.Prog.Final\\Controllers\\CouurseController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAiwEYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T17:37:37.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Int.Prog.Final\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Int.Prog.Final\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAQwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T16:50:06.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Int.Prog.Final\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Int.Prog.Final\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAwwHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-09T16:37:54.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Models\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "Int.Prog.Final\\Models\\StudentCourse.cs",
+              "ToolTip": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Models\\StudentCourse.cs",
+              "RelativeToolTip": "Int.Prog.Final\\Models\\StudentCourse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T01:45:41.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Int.Prog.Final\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Models\\Student.cs",
+              "RelativeToolTip": "Int.Prog.Final\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T01:46:49.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Int.Prog.Final\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Int.Prog.Final\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAmwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T01:44:23.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Int.Prog.Final\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Int.Prog.Final\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T01:44:16.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Int.Prog.Final\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Int.Prog.Final\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T01:01:28.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Int.Prog.Final\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Models\\Course.cs",
+              "RelativeToolTip": "Int.Prog.Final\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T00:30:33.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240609153954_AddCourseCredit.cs",
+              "DocumentMoniker": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Migrations\\20240609153954_AddCourseCredit.cs",
+              "RelativeDocumentMoniker": "Int.Prog.Final\\Migrations\\20240609153954_AddCourseCredit.cs",
+              "ToolTip": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Migrations\\20240609153954_AddCourseCredit.cs",
+              "RelativeToolTip": "Int.Prog.Final\\Migrations\\20240609153954_AddCourseCredit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T01:01:23.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\ugurs\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\ugurs\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-10T00:55:04.216Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240609152614_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Migrations\\20240609152614_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Int.Prog.Final\\Migrations\\20240609152614_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Migrations\\20240609152614_InitialCreate.cs",
+              "RelativeToolTip": "Int.Prog.Final\\Migrations\\20240609152614_InitialCreate.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T00:52:57.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Program.cs",
+              "RelativeDocumentMoniker": "Int.Prog.Final\\Program.cs",
+              "ToolTip": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Program.cs",
+              "RelativeToolTip": "Int.Prog.Final\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T00:30:26.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Int.Prog.Final",
+              "DocumentMoniker": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Int.Prog.Final.csproj",
+              "RelativeDocumentMoniker": "Int.Prog.Final\\Int.Prog.Final.csproj",
+              "ToolTip": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Int.Prog.Final.csproj",
+              "RelativeToolTip": "Int.Prog.Final\\Int.Prog.Final.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-10T00:45:31.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Int.Prog.Final\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Int.Prog.Final\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T17:41:07.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Int.Prog.Final\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ugurs\\source\\repos\\StudentManagementSystem\\Int.Prog.Final\\Int.Prog.Final\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Int.Prog.Final\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T16:37:41.111Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

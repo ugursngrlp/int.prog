@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Int.Prog.Final.Models.Student>
+
+@{
+    ViewBag.Title = "Student Index";
+}
+
+<h2>Student Index</h2>
+
+<div class="text-right mb-3">
+    @Html.ActionLink("Add New Student", "AddStudent", null, new { @class = "btn btn-primary" })
+</div>
+
+<table class="table table-striped table-custom">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Surname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Age)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Surname)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Age)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "EditStudent", new { id = item.StudentId }, new { @class = "btn btn-sm btn-outline-primary" }) |
+                    @Html.ActionLink("Delete", "DeleteStudent", new { id = item.StudentId }, new { @class = "btn btn-sm btn-outline-danger", onclick = "return confirm('Emin misiniz?');" }) |
+                    @Html.ActionLink("Assign Courses", "AssignCourses", new { id = item.StudentId }, new { @class = "btn btn-sm btn-outline-secondary" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="text-right">
+    @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-secondary" })
+</div>
